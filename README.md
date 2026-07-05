@@ -18,6 +18,13 @@ Become a Python Backend & AI Engineer by building projects consistently.
 - First Git Commit
 - First GitHub Repository
 
+### ✅ Day 2
+- Calculator
+- int()
+- float()
+- if-else
+- ZeroDivisionError
+
 ## Repository Structure
 
 ```
