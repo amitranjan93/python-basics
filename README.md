@@ -8,7 +8,7 @@ Become a Python Backend & AI Engineer by building projects consistently.
 
 ## Progress
 
-### ✅ Day 1
+### ✅ Day 1 - Python Setup
 - Variables
 - Input & Output
 - f-Strings
@@ -18,20 +18,35 @@ Become a Python Backend & AI Engineer by building projects consistently.
 - First Git Commit
 - First GitHub Repository
 
-### ✅ Day 2
-- Calculator
-- int()
-- float()
-- if-else
-- ZeroDivisionError
+### ✅ Day 2 - Calculator
+- int() and float()
+- Arithmetic Operators
+- Type Conversion
+- if-else Statements
+- ZeroDivisionError Handling
+- Reading Error Messages
+
+### ✅ Day 3 - Number Guessing Game
+- random Module
+- while Loops
+- Comparison Operators
+- Nested Logic
+- Attempt Counter
+- Game Loop
+- Code Refactoring
+
+### ✅ Day 4 - Functions
+- Function Definition (`def`)
+- Parameters
+- Arguments
+- `return` vs `print`
+- Boolean Functions
+- Recursion (Revision)
+- Prime Number Checker
+- Factorial Function
 
 ## Repository Structure
 
-```
-python-basics/
-├── day01.py
-└── README.md
-```
 
 ## About
 
