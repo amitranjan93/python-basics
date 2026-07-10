@@ -78,6 +78,20 @@ This repository documents my progress as I learn Python from the fundamentals to
 
 ---
 
+### ✅ Day 6 - Student Database
+- Dictionaries
+- Nested Data Structures
+- CRUD Operations
+- Dictionary Updates
+- Dictionary Access
+- Key-Value Pairs
+- Menu Driven Program
+
+**Project**
+- 📚 Student Database
+
+---
+
 ## 🛠️ Tools Used
 
 - Python 3.13
