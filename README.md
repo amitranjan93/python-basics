@@ -92,6 +92,20 @@ This repository documents my progress as I learn Python from the fundamentals to
 
 ---
 
+### ✅ Day 7 - Contact Book
+
+- Sets
+- Tuples
+- Membership Testing (`in`)
+- Preventing Duplicates
+- Menu Driven Program
+- CRUD Operations
+
+**Project**
+- 📞 Contact Book
+
+---
+
 ## 🛠️ Tools Used
 
 - Python 3.13
