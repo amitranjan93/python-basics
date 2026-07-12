@@ -119,7 +119,33 @@ This repository documents my progress as I learn Python from the fundamentals to
 **Project**
 - 💰 Expense Tracker
 
----S
+---
+
+## ✅ Day 9 - File Handling & Persistent Storage
+
+### Concepts Learned
+
+- File Handling (`open`, `close`)
+- Read / Write / Append Modes
+- String Processing (`split`, `strip`)
+- Loading and Saving Application Data
+- Checking File Existence (`os.path.exists`)
+
+### Project Upgrade
+
+💰 Expense Tracker v2
+
+#### Features
+
+- Add Expense
+- Search Expense
+- Delete Expense
+- Show Total Expense
+- Automatic Save
+- Automatic Load
+- Persistent Storage
+
+---
 
 ## 🛠️ Tools Used
 
