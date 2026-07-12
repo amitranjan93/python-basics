@@ -106,6 +106,21 @@ This repository documents my progress as I learn Python from the fundamentals to
 
 ---
 
+### ✅ Day 8 - Expense Tracker
+
+- Lists of Dictionaries
+- Modular Programming
+- CRUD Operations
+- Data Validation
+- Searching Data
+- Manual Aggregation
+- Menu Driven Program
+
+**Project**
+- 💰 Expense Tracker
+
+---S
+
 ## 🛠️ Tools Used
 
 - Python 3.13
