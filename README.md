@@ -146,6 +146,37 @@ This repository documents my progress as I learn Python from the fundamentals to
 - Persistent Storage
 
 ---
+## ✅ Day 10 - Project Modularization
+
+### Concepts Learned
+
+- Python Modules
+- `import module`
+- `from module import function`
+- Project Structure
+- Separation of Responsibilities
+- Refactoring
+- Dependency Reduction
+
+### Project Structure
+
+```
+expense_tracker/
+│
+├── main.py
+├── expense_manager.py
+├── file_manager.py
+└── expenses.txt
+```
+
+### Improvements
+
+- Split business logic into separate modules
+- Isolated file handling
+- Reduced module dependencies
+- Improved maintainability
+
+---
 
 ## 🛠️ Tools Used
 
