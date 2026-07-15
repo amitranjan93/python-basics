@@ -178,6 +178,25 @@ expense_tracker/
 
 ---
 
+## 📚 Concepts Learned
+
+- Classes and Objects
+- `__init__()` Constructor
+- `self` Keyword
+- Object Methods
+- Encapsulation
+- Returning Values vs Printing
+- Storing Objects in Lists
+- Basic OOP Design Principles
+
+---
+
+## 💻 Project: Password Vault
+
+Built a menu-driven Password Vault application using Object-Oriented Programming.
+
+---
+
 ## 🛠️ Tools Used
 
 - Python 3.13
