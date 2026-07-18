@@ -191,9 +191,29 @@ expense_tracker/
 
 ---
 
-## 💻 Project: Password Vault
+## 💻 Day 11 : Project: Password Vault
 
 Built a menu-driven Password Vault application using Object-Oriented Programming.
+
+---
+
+## DAy 12: Project Password Vault v2
+
+# 🔐 Password Vault (Python)
+
+A simple command-line Password Vault built in Python using Object-Oriented Programming (OOP). This application allows users to securely store, edit, delete, and manage website credentials while persisting data in a text file.
+
+---
+
+## 🚀 Features
+
+- ➕ Add new passwords
+- 📋 View all saved passwords
+- 🔒 Check password strength
+- ✏️ Edit existing passwords
+- 🗑️ Delete passwords
+- 💾 Automatic file saving
+- 📂 Automatically loads saved passwords when the program starts
 
 ---
 
