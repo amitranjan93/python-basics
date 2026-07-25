@@ -1,0 +1,6 @@
+100|Amit|25|java|90.0
+101|Isha|23|MBA|99.0
+102|Jiggy|24|BBA|80.0
+104|Ayush|26|AI|100.0
+105|Pratyush|21|Python|70.0
+103|Rahul|22|C+|50.0
