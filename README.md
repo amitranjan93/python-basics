@@ -216,6 +216,24 @@ A simple command-line Password Vault built in Python using Object-Oriented Progr
 - 📂 Automatically loads saved passwords when the program starts
 
 ---
+## Day 13 - Build Student Management System
+
+### What I Learned
+- Exception Handling using try-except
+- Input Validation
+- Business Rule Validation
+- DRY Principle
+- Refactoring
+- Reusable Helper Functions
+
+### Student Management System Improvements
+- Added reusable integer validation helper
+- Added reusable float validation helper
+- Prevented program crashes from invalid input
+- Added validation to Add, Search, Delete, Update and Update Marks
+- Improved code readability through refactoring
+
+---
 
 ## 🛠️ Tools Used
 
