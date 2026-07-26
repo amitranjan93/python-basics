@@ -235,6 +235,28 @@ A simple command-line Password Vault built in Python using Object-Oriented Progr
 
 ---
 
+## Day 14 - Object-Oriented Programming Fundamentals
+
+### Topics Covered
+- Classes and Objects
+- Constructors (`__init__`)
+- `self`
+- Object References
+- Instance Variables
+- Class Variables
+- Attribute Lookup
+- Instance Methods
+- Class Methods
+- Static Methods
+
+### Practice
+Built a `Student` class demonstrating:
+- Instance methods for displaying student details
+- Class methods for updating shared university information
+- Static methods for validating pass/fail status
+
+---
+
 ## 🛠️ Tools Used
 
 - Python 3.13
