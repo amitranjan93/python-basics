@@ -1,292 +1,234 @@
-# 🐍 Python Basics - Project Phoenix
+# 🚀 Project Phoenix
 
-Welcome to my Python learning journey! 🚀
-
-This repository documents my progress as I learn Python from the fundamentals to advanced topics through hands-on projects and coding challenges.
+> My journey to becoming a Software Engineer through consistent daily practice, project-based learning, and building real-world applications.
 
 ---
 
-## 📅 Progress
+# 📌 About
 
-### ✅ Day 1 - Python Setup
-- Python Installation
-- VS Code Setup
-- Git & GitHub Setup
+Project Phoenix is my structured roadmap for mastering Python from the ground up.
+
+Instead of only learning syntax, I focus on:
+
+- Understanding core programming concepts
+- Building real-world projects
+- Applying software engineering principles
+- Writing clean, maintainable code
+- Learning Git & GitHub professionally
+- Preparing for Backend Development and AI Engineering
+
+Every concept is learned by designing, implementing, reviewing, and improving projects.
+
+---
+
+# 🗺️ Learning Roadmap
+
+## ✅ Phase 1 — Python Fundamentals
+
+### Topics Covered
+
 - Variables
-- Input & Output
-- f-Strings
-- First Git Commit
-
-**Project**
-- 👋 Welcome Program
-
----
-
-### ✅ Day 2 - Calculator
-- Data Types (`int`, `float`)
-- Type Conversion
-- Arithmetic Operators
-- `if-else`
-- Zero Division Handling
-
-**Project**
-- 🧮 Calculator
-
----
-
-### ✅ Day 3 - Number Guessing Game
-- `random` Module
-- `while` Loops
-- Comparison Operators
-- Attempt Counter
-- Game Loop
-- Logic Building
-
-**Project**
-- 🎮 Number Guessing Game
-
----
-
-### ✅ Day 4 - Functions
-- Function Definition
-- Parameters
-- Arguments
-- `return` vs `print`
-- Boolean Functions
-- Recursion (Revision)
-- Prime Number Checker
-- Factorial Function
-
-**Projects**
-- 🔢 Factorial Calculator
-- ✔️ Prime Number Checker
-
----
-
-### ✅ Day 5 - Student Marks Manager
+- Data Types
+- Operators
+- Input / Output
+- Strings
 - Lists
-- List Traversal
-- `append()`
-- Input Validation
-- Menu Driven Programs
-- Modular Programming
-- Average, Highest & Lowest Marks
-- Function Based Design
-
-**Project**
-- 📊 Student Marks Manager
-
----
-
-### ✅ Day 6 - Student Database
-- Dictionaries
-- Nested Data Structures
-- CRUD Operations
-- Dictionary Updates
-- Dictionary Access
-- Key-Value Pairs
-- Menu Driven Program
-
-**Project**
-- 📚 Student Database
-
----
-
-### ✅ Day 7 - Contact Book
-
-- Sets
 - Tuples
-- Membership Testing (`in`)
-- Preventing Duplicates
-- Menu Driven Program
-- CRUD Operations
+- Dictionaries
+- Sets
+- Functions
+- Loops
+- Conditional Statements
+- Exception Handling
+- File Handling
+- Modules
 
-**Project**
+### Mini Projects
+
+- 👋 Welcome Program
+- 🧮 Calculator
+- 🎮 Number Guessing Game
+- 📊 Student Marks Manager
+- 📚 Student Database
 - 📞 Contact Book
-
----
-
-### ✅ Day 8 - Expense Tracker
-
-- Lists of Dictionaries
-- Modular Programming
-- CRUD Operations
-- Data Validation
-- Searching Data
-- Manual Aggregation
-- Menu Driven Program
-
-**Project**
 - 💰 Expense Tracker
+- 🔐 Password Vault
+- 🎓 Student Management System
 
 ---
 
-## ✅ Day 9 - File Handling & Persistent Storage
+# ✅ Phase 2 — Object-Oriented Programming
 
-### Concepts Learned
+### Concepts Covered
 
-- File Handling (`open`, `close`)
-- Read / Write / Append Modes
-- String Processing (`split`, `strip`)
-- Loading and Saving Application Data
-- Checking File Existence (`os.path.exists`)
+- Classes
+- Objects
+- Constructors
+- Instance Variables
+- Instance Methods
+- Encapsulation
+- Inheritance
+- Method Overriding
+- Polymorphism
+- `super()`
+- `isinstance()`
 
-### Project Upgrade
+---
 
-💰 Expense Tracker v2
+## 🏦 Major Project
 
-#### Features
+# Bank Management System
 
-- Add Expense
-- Search Expense
-- Delete Expense
-- Show Total Expense
-- Automatic Save
-- Automatic Load
+A menu-driven banking application built using Object-Oriented Programming and modular Python architecture.
+
+### Features
+
+- Create Savings Account
+- Create Current Account
+- Deposit Money
+- Withdraw Money
+- Display Single Account
+- Display All Accounts
+- Automatic Data Saving
+- Automatic Data Loading
 - Persistent Storage
-
----
-## ✅ Day 10 - Project Modularization
-
-### Concepts Learned
-
-- Python Modules
-- `import module`
-- `from module import function`
-- Project Structure
-- Separation of Responsibilities
-- Refactoring
-- Dependency Reduction
+- Input Validation
+- Exception Handling
+- Modular Architecture
 
 ### Project Structure
 
 ```
-expense_tracker/
-│
+bank_management_system/
+
 ├── main.py
-├── expense_manager.py
+├── account_manager.py
+├── bank_manager.py
 ├── file_manager.py
-└── expenses.txt
+├── accounts.txt
+└── README.md
 ```
 
-### Improvements
+### OOP Concepts Used
 
-- Split business logic into separate modules
-- Isolated file handling
-- Reduced module dependencies
-- Improved maintainability
-
----
-
-## 📚 Concepts Learned
-
-- Classes and Objects
-- `__init__()` Constructor
-- `self` Keyword
-- Object Methods
+- Inheritance
+- Method Overriding
 - Encapsulation
-- Returning Values vs Printing
-- Storing Objects in Lists
-- Basic OOP Design Principles
+- Polymorphism
+- Constructor Chaining
+- Object Composition
 
 ---
 
-## 💻 Day 11 : Project: Password Vault
+# 🧠 Software Engineering Concepts Learned
 
-Built a menu-driven Password Vault application using Object-Oriented Programming.
-
----
-
-## DAy 12: Project Password Vault v2
-
-# 🔐 Password Vault (Python)
-
-A simple command-line Password Vault built in Python using Object-Oriented Programming (OOP). This application allows users to securely store, edit, delete, and manage website credentials while persisting data in a text file.
-
----
-
-## 🚀 Features
-
-- ➕ Add new passwords
-- 📋 View all saved passwords
-- 🔒 Check password strength
-- ✏️ Edit existing passwords
-- 🗑️ Delete passwords
-- 💾 Automatic file saving
-- 📂 Automatically loads saved passwords when the program starts
-
----
-## Day 13 - Build Student Management System
-
-### What I Learned
-- Exception Handling using try-except
-- Input Validation
-- Business Rule Validation
+- Separation of Concerns
 - DRY Principle
+- Modular Programming
+- Project Design
+- API Design
+- Business Logic vs User Interface
+- Persistence
+- State Management
+- Code Reviews
 - Refactoring
-- Reusable Helper Functions
-
-### Student Management System Improvements
-- Added reusable integer validation helper
-- Added reusable float validation helper
-- Prevented program crashes from invalid input
-- Added validation to Add, Search, Delete, Update and Update Marks
-- Improved code readability through refactoring
+- Input Validation
 
 ---
 
-## Day 14 - Object-Oriented Programming Fundamentals
+# 🛠️ Tools & Technologies
 
-### Topics Covered
-- Classes and Objects
-- Constructors (`__init__`)
-- `self`
-- Object References
-- Instance Variables
-- Class Variables
-- Attribute Lookup
-- Instance Methods
-- Class Methods
-- Static Methods
-
-### Practice
-Built a `Student` class demonstrating:
-- Instance methods for displaying student details
-- Class methods for updating shared university information
-- Static methods for validating pass/fail status
-
----
-
-## 🛠️ Tools Used
-
-- Python 3.13
+- Python 3
 - Visual Studio Code
 - Git
 - GitHub
 
 ---
 
-## 🎯 Goals
+# 📈 Current Progress
 
-- ✅ Python Fundamentals
-- ⏳ Object-Oriented Programming
-- ⏳ File Handling
-- ⏳ Exception Handling
-- ⏳ Modules & Packages
-- ⏳ SQL
-- ⏳ FastAPI
-- ⏳ Generative AI
-
----
-
-## 📈 Learning Philosophy
-
-- Think before coding
-- Solve problems independently
-- Learn by building projects
-- Improve code through reviews
-- Commit progress daily
+| Phase | Status |
+|--------|--------|
+| Python Fundamentals | ✅ Completed |
+| Object-Oriented Programming | ✅ Completed |
+| Software Engineering | 🟡 In Progress |
+| Data Structures & Algorithms | ⏳ Upcoming |
+| SQLite | ⏳ Upcoming |
+| Backend Development | ⏳ Upcoming |
+| Generative AI | ⏳ Upcoming |
 
 ---
 
-⭐ This repository is part of my **Project Phoenix** journey to become a Software Engineer.
+# 📂 Repository Structure
+
+```
+Project-Phoenix/
+
+├── Day 01 - Welcome Program
+├── Day 02 - Calculator
+├── Day 03 - Number Guessing Game
+├── ...
+├── Student Management System
+├── Bank Management System
+└── README.md
+```
+
+---
+
+# 🎯 Learning Philosophy
+
+I follow a simple process for every topic:
+
+```
+Understand the Problem
+
+        ↓
+
+Design the Solution
+
+        ↓
+
+Write the Code
+
+        ↓
+
+Test Everything
+
+        ↓
+
+Review the Code
+
+        ↓
+
+Refactor & Improve
+```
+
+The goal is not just to learn Python syntax but to think like a Software Engineer.
+
+---
+
+# 🚀 Upcoming Topics
+
+- SOLID Principles
+- Data Structures & Algorithms
+- SQLite
+- FastAPI
+- REST APIs
+- Testing
+- Design Patterns
+- Generative AI
+- AI Agents
+
+---
+
+# ⭐ About This Repository
+
+This repository is continuously updated as I progress through **Project Phoenix**.
+
+Every project represents a step toward becoming a professional Software Engineer through hands-on learning and consistent practice.
+
+---
+
+## 📅 Current Status
+
+🟢 Project Phoenix — **Phase 2 Completed**
